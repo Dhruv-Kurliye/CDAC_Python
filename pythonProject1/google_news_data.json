@@ -1,0 +1,693 @@
+{
+    "status": "success",
+    "items": [
+        {
+            "title": "S&P 500 Gains and Losses Today: Uber Falls as Trump Eyes Looser Self-Driving Rules",
+            "snippet": "The S&P 500 added 0.4% on Monday, Nov. 18, kicking off a trading week that will feature a highly anticipated earnings report from chip giant Nvidia.",
+            "publisher": "Investopedia",
+            "timestamp": "1731966695000",
+            "newsUrl": "https://www.investopedia.com/s-and-p-500-gains-and-losses-today-uber-falls-as-trump-eyes-looser-self-driving-rules-8746982",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXliVkJFTW10aVNFZEVZM2xUVFJERUF4aW1CU2dLTWdZQllKS09PUVk=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNXliVkJFTW10aVNFZEVZM2xUVFJERUF4aW1CU2dLTWdZQllKS09PUVk"
+            },
+            "hasSubnews": true,
+            "subnews": [
+                {
+                    "title": "Tesla stock pops after report Trump wants to relax U.S. self-driving rules",
+                    "snippet": "Elon Musk was a central figure in the business world pushing for Trump's return to the White House in the lead-up to this month's elections.",
+                    "publisher": "CNBC",
+                    "timestamp": "1731925467000",
+                    "newsUrl": "https://www.cnbc.com/2024/11/18/tesla-tsla-stock-up-on-report-trump-wants-to-ease-self-driving-rules.html",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUNNVE4zT1VOdU5EQlhSVTlOVFJDZkF4ampCU2dLTWdhVkFwTDB0QVk=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNUNNVE4zT1VOdU5EQlhSVTlOVFJDZkF4ampCU2dLTWdhVkFwTDB0QVk"
+                    }
+                },
+                {
+                    "title": "Trump Is Reportedly Planning to Relax Rules for Self-Driving Cars",
+                    "snippet": "The incoming Trump administration intends to prioritize loosening federal regulations for self-driving cars, per a report by Bloomberg.",
+                    "publisher": "Car and Driver",
+                    "timestamp": "1731969910000",
+                    "newsUrl": "https://www.caranddriver.com/news/a62941005/trump-relax-rules-self-driving-cars-report/",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVVTR0Z4ZGs1cmRtMU5jVzFNVFJEb0FoaUFCU2dLTWdZZGtZcnZ2QVE=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNVVTR0Z4ZGs1cmRtMU5jVzFNVFJEb0FoaUFCU2dLTWdZZGtZcnZ2QVE"
+                    }
+                },
+                {
+                    "title": "Tesla gains on report Trump's team planning federal self-driving vehicle regulations",
+                    "snippet": "Tesla shares rose more than 5% on Monday after Bloomberg News reported that President-elect Donald Trump's transition team was planning to set up federal ...",
+                    "publisher": "Reuters",
+                    "timestamp": "1731940452000",
+                    "newsUrl": "https://www.reuters.com/business/autos-transportation/tesla-gains-report-trumps-team-planning-federal-self-driving-vehicle-regulations-2024-11-18/",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNWljVEZLVFc5V1EwUlROblU0VFJERUF4aW1CU2dLTWdB=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iI0NnNWljVEZLVFc5V1EwUlROblU0VFJERUF4aW1CU2dLTWdB"
+                    }
+                },
+                {
+                    "title": "Tesla Stock Rises 6%: What We Know About Trump\u2019s Impact On Musk\u2019s EV Giant",
+                    "snippet": "Tesla stock is up 37% in volatile post-election trading as Wall Street digests a complicated web of Trump policies which may impact the Musk-led electric ...",
+                    "publisher": "Forbes",
+                    "timestamp": "1731942420000",
+                    "newsUrl": "https://www.forbes.com/sites/dereksaul/2024/11/18/tesla-stock-rises-8-what-we-know-about-trumps-impact-on-musks-ev-giant/",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNHpRWEZWVlRFMExYcERZbUpSVFJDUEF4akZCU2dLTWdB=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iI0NnNHpRWEZWVlRFMExYcERZbUpSVFJDUEF4akZCU2dLTWdB"
+                    }
+                },
+                {
+                    "title": "For Tesla Stock, Trump Giveth and Trump Taketh Away",
+                    "snippet": "Tesla shares rise after a report says President-elect Trump will seek to set a national standard for self-driving cars.",
+                    "publisher": "Barron's",
+                    "timestamp": "1731966180000",
+                    "newsUrl": "https://www.barrons.com/articles/tesla-stock-trump-self-driving-2568278c",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNXJhRWQxWlRsbFNYRlRRa1IzVFJDcUJCaXFCQ2dLTWdrQmdJYnpUS09oRXdF=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iL0NnNXJhRWQxWlRsbFNYRlRRa1IzVFJDcUJCaXFCQ2dLTWdrQmdJYnpUS09oRXdF"
+                    }
+                },
+                {
+                    "title": "Uber, Lyft Fall On Report Trump Will Ease Self-Driving Rules",
+                    "snippet": "Uber stock and shares of rival Lyft fell after report that Donald Trump will ease rules for self-driving cars, potentially helping Tesla.",
+                    "publisher": "Investor's Business Daily",
+                    "timestamp": "1731964500000",
+                    "newsUrl": "https://www.investors.com/news/technology/uber-stock-tesla-self-driving-robotaxi-trump-regulation/",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNTJWMHcwVkcxbFVuQkhkVWd4VFJDZkF4amlCU2dLTWdZQkZJNk1vUWM=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNTJWMHcwVkcxbFVuQkhkVWd4VFJDZkF4amlCU2dLTWdZQkZJNk1vUWM"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Walmart will report earnings before the bell. Here's what to expect",
+            "snippet": "The discounter will deliver its latest sales results as inflation cools and the holiday season heats up.",
+            "publisher": "CNBC",
+            "timestamp": "1731992461000",
+            "newsUrl": "https://www.cnbc.com/2024/11/19/walmart-wmt-q3-2025-earnings.html",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNXRRemhKU2taVFdrcDVUR2x6VFJDZkF4ampCU2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iI0NnNXRRemhKU2taVFdrcDVUR2x6VFJDZkF4ampCU2dLTWdB"
+            },
+            "hasSubnews": true,
+            "subnews": [
+                {
+                    "title": "The secrets of Walmart\u2019s success? Groceries, low prices and a popular e-commerce platform.",
+                    "snippet": "The country's largest retailer will release its third-quarter earnings Tuesday, and it's looking like Walmart will be sharing good news.",
+                    "publisher": "Marketplace",
+                    "timestamp": "1731967785000",
+                    "newsUrl": "https://www.marketplace.org/2024/11/18/the-secrets-of-walmarts-success-groceries-low-prices-and-a-popular-e-commerce-platform/",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNU9aWEJVUzNkbGVqUllTMEpCVFJEUkFoallCQ2dLTWdB=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iI0NnNU9aWEJVUzNkbGVqUllTMEpCVFJEUkFoallCQ2dLTWdB"
+                    }
+                },
+                {
+                    "title": "Will Walmart's Streak Of Earnings Beats Continue Tuesday? Analysts Say Retailer A 'Core Holding'",
+                    "snippet": "A look at the key earnings estimates for Walmart's third-quarter financial results and what experts are saying with shares up around 60% year-to-date in ...",
+                    "publisher": "Benzinga",
+                    "timestamp": "1731962946000",
+                    "newsUrl": "https://www.benzinga.com/24/11/42047989/walmart-q3-earnings-preview-will-eps-beat-streak-continue-analysts-says-retailer-should-remain-a-core-holding",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNVNRMWM0ZVZWdmRXOUxkMVJpVFJERUF4aW1CU2dLTWdB=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iI0NnNVNRMWM0ZVZWdmRXOUxkMVJpVFJERUF4aW1CU2dLTWdB"
+                    }
+                },
+                {
+                    "title": "Walmart earnings, FedSpeak, housing data: What to Watch",
+                    "snippet": "Market Domination Overtime Anchors Julie Hyman and Josh Lipton preview key events for Tuesday, November 19, 2024. Many companies are set to report quarterly ...",
+                    "publisher": "Yahoo Finance",
+                    "timestamp": "1731966140000",
+                    "newsUrl": "https://finance.yahoo.com/video/walmart-earnings-fedspeak-housing-data-214220573.html",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNU5VMnBmVUdGVFptSnFhMFp6VFJDZkF4ampCU2dLTWdrQlFacWpIbWcxU2dJ=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iL0NnNU5VMnBmVUdGVFptSnFhMFp6VFJDZkF4ampCU2dLTWdrQlFacWpIbWcxU2dJ"
+                    }
+                },
+                {
+                    "title": "What Analysts Think of Walmart's Stock Ahead of Earnings",
+                    "snippet": "Walmart is set to report earnings before the market opens Tuesday for the third quarter of fiscal 2025, with analysts expecting improving sales as Walmart ...",
+                    "publisher": "Investopedia",
+                    "timestamp": "1731751200000",
+                    "newsUrl": "https://www.investopedia.com/what-analysts-think-of-walmart-s-stock-ahead-of-earnings-8746327",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVdaM1pKU0V0aVpqRlJhbk4zVFJERUF4aW1CU2dLTWdZdEZJS1FrUW8=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNVdaM1pKU0V0aVpqRlJhbk4zVFJERUF4aW1CU2dLTWdZdEZJS1FrUW8"
+                    }
+                },
+                {
+                    "title": "Walmart Upcoming Earnings: How Will Tech Initiatives Shape Results?",
+                    "snippet": "Stocks Analysis by Ali Merchant covering: Walmart Inc. Read Ali Merchant's latest article on Investing.com.",
+                    "publisher": "Investing.com",
+                    "timestamp": "1731949285000",
+                    "newsUrl": "https://www.investing.com/analysis/walmart-upcoming-earnings-how-will-tech-initiatives-shape-results-200654277",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNWZVM1ZMUldRelJVMHdVMWwxVFJDaUFSaTNBaWdCTWdB=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iI0NnNWZVM1ZMUldRelJVMHdVMWwxVFJDaUFSaTNBaWdCTWdB"
+                    }
+                },
+                {
+                    "title": "Time to Buy Walmart or Target Stock as Q3 Earnings Approach?",
+                    "snippet": "Third-quarter results from retail giants Walmart WMT and Target TGT will be a highlight of this week's earnings lineup. Both omnichannel retailers are ...",
+                    "publisher": "Yahoo Finance",
+                    "timestamp": "1731970680000",
+                    "newsUrl": "https://finance.yahoo.com/news/time-buy-walmart-target-stock-225800561.html",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXBlRXhtUVZZMU9YUnJZVGxMVFJDUUF4ajdCQ2dLTWdZQmM0eXVyUWM=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNXBlRXhtUVZZMU9YUnJZVGxMVFJDUUF4ajdCQ2dLTWdZQmM0eXVyUWM"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Asian Stocks Follow US Gains on Lower Bond Yields: Markets Wrap",
+            "snippet": "(Bloomberg) -- Asian stocks followed gains in the US as a decline in Treasury yields helped bolster the allure of holding equities.",
+            "publisher": "Yahoo Finance",
+            "timestamp": "1731984660000",
+            "newsUrl": "https://finance.yahoo.com/news/asian-stocks-set-track-us-224654636.html",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iPkNnNXBVM2xGVFc1SmRsSkJORFpRVFJEb0FoaUFCU2dLTWhRdEFJd3F2ZVFsNEJrVDZCWTdqd3JlSXhjTEFn=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iPkNnNXBVM2xGVFc1SmRsSkJORFpRVFJEb0FoaUFCU2dLTWhRdEFJd3F2ZVFsNEJrVDZCWTdqd3JlSXhjTEFn"
+            },
+            "hasSubnews": true,
+            "subnews": [
+                {
+                    "title": "Asian Stocks Rise, Following Gains in US Equities: Markets Wrap",
+                    "snippet": "US and European stock futures rose with Asian shares as a decline in Treasury yields bolstered the appeal of holding equities. Traders are watching for any ...",
+                    "publisher": "Bloomberg",
+                    "timestamp": "1731999240000",
+                    "newsUrl": "https://www.bloomberg.com/news/articles/2024-11-18/stock-market-today-dow-s-p-live-updates",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNU9kMnd0UjJWcmFVaEpSemx6VFJERUF4aW1CU2dLTWdB=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iI0NnNU9kMnd0UjJWcmFVaEpSemx6VFJERUF4aW1CU2dLTWdB"
+                    }
+                },
+                {
+                    "title": "Investors circle the Trump trade's global market victims",
+                    "snippet": "LONDON, Nov 15 (Reuters) - Big global investors are exiting popular trades that bet on U.S. President-elect Donald Trump's tax and tariff policies boosting ...",
+                    "publisher": "Reuters",
+                    "timestamp": "1731663775000",
+                    "newsUrl": "https://www.reuters.com/markets/us/investors-circle-trump-trades-global-market-victims-2024-11-15/",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVVjMHhEU0RGSFNHd3dWa3hJVFJERUF4aW1CU2dLTWdhaFJKYnJJUWs=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNVVjMHhEU0RGSFNHd3dWa3hJVFJERUF4aW1CU2dLTWdhaFJKYnJJUWs"
+                    }
+                },
+                {
+                    "title": "Markets rally after US bounce as Nvidia comes into focus",
+                    "snippet": "Markets rose Tuesday after a broadly positive day on Wall Street, with focus turning to the upcoming release of tech giant Nvidia's earnings, while traders ...",
+                    "publisher": "The Elkhart Truth",
+                    "timestamp": "1732004557000",
+                    "newsUrl": "https://www.elkharttruth.com/news/national/markets-rally-after-us-bounce-as-nvidia-comes-into-focus/article_fb9e9eec-98f1-5be4-922f-0d1fcfe78efb.html",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNU5WRWc1VGxGV1RIcFBSVVZ5VFJEckFSaVFBeWdLTWdZTlVZd3FPUVU=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNU5WRWc1VGxGV1RIcFBSVVZ5VFJEckFSaVFBeWdLTWdZTlVZd3FPUVU"
+                    }
+                },
+                {
+                    "title": "Stock market today: Asian shares gain after Wall St regains its stride",
+                    "snippet": "BANGKOK (AP) \u2014 Asian shares advanced Tuesday after most U.S. stocks ticked higher to recover some of their swoon from last week.",
+                    "publisher": "LNP | LancasterOnline",
+                    "timestamp": "1732004183000",
+                    "newsUrl": "https://lancasteronline.com/business/stock_market/stock-market-today-asian-shares-gain-after-wall-st-regains-its-stride/article_117e28a3-08a1-5e2d-b382-2c2f8cf209a9.html",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNHlOMjVvWmpsMWJrVkJWSGRhVFJERUF4aW1CU2dLTWdB=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iI0NnNHlOMjVvWmpsMWJrVkJWSGRhVFJERUF4aW1CU2dLTWdB"
+                    }
+                },
+                {
+                    "title": "Asia markets mixed as investors assess China economic data and Japan GDP after Wall Street falls",
+                    "snippet": "Asia markets were mixed Friday as Wall Street fell after U.S. Federal Reserve Chair Jerome Powell indicated the central bank was in no rush to cut rates, ...",
+                    "publisher": "CNBC",
+                    "timestamp": "1731627972000",
+                    "newsUrl": "https://www.cnbc.com/2024/11/15/asia-markets-live-powell-comments-japan-gdp-china-retail-sales.html",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNTJORkY0ZFZSRWRITTJVVTFrVFJDZkF4ampCU2dLTWdZQm9JQW95UU0=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNTJORkY0ZFZSRWRITTJVVTFrVFJDZkF4ampCU2dLTWdZQm9JQW95UU0"
+                    }
+                },
+                {
+                    "title": "Asian stocks rise, dollar weak as US yields tick down By Reuters",
+                    "snippet": "By Kevin Buckland. TOKYO (Reuters) -Asian stocks rose on Tuesday while U.S. bond yields and the dollar hung back from multi-month highs as traders awaited ...",
+                    "publisher": "Investing.com",
+                    "timestamp": "1731996675000",
+                    "newsUrl": "https://www.investing.com/news/economy-news/asian-stocks-rise-dollar-weak-as-us-yields-tick-down-3729263",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNWthVTFWYkhOYVMyRlllazFuVFJDM0FSaVVBaWdCTWdZQlFvaUdOZ2M=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNWthVTFWYkhOYVMyRlllazFuVFJDM0FSaVVBaWdCTWdZQlFvaUdOZ2M"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "DOJ to ask judge to force Google to sell off Chrome after illegal monopoly ruling: report",
+            "snippet": "The Justice Department will ask a judge to force Alphabet's Google to sell off its Chrome browser, Bloomberg reported Monday.",
+            "publisher": "New York Post ",
+            "timestamp": "1731972874000",
+            "newsUrl": "https://nypost.com/2024/11/18/business/doj-to-ask-judge-to-force-google-to-sell-off-chrome-report/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNWhZVkZmVWxrelpFNDBkblIwVFJERUF4aW5CU2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iI0NnNWhZVkZmVWxrelpFNDBkblIwVFJERUF4aW5CU2dLTWdB"
+            },
+            "hasSubnews": true,
+            "subnews": [
+                {
+                    "title": "DOJ Will Push Google to Sell off Chrome to Break Search Monopoly",
+                    "snippet": "Top Justice Department antitrust officials have decided to ask a judge to force Alphabet Inc.'s Google to sell off its Chrome browser in what would be a ...",
+                    "publisher": "Bloomberg",
+                    "timestamp": "1731972844000",
+                    "newsUrl": "https://www.bloomberg.com/news/articles/2024-11-18/doj-will-push-google-to-sell-off-chrome-to-break-search-monopoly",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iMkNnNUZSa3hyVTFOYWIzUTJkR3N5VFJERUF4aW1CU2dLTWd1QkVvN2trcVNpcGxvUnVR=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iMkNnNUZSa3hyVTFOYWIzUTJkR3N5VFJERUF4aW1CU2dLTWd1QkVvN2trcVNpcGxvUnVR"
+                    }
+                },
+                {
+                    "title": "Antitrust Enforcers Prepare Final Blitz Against Big Tech",
+                    "snippet": "WASHINGTON\u2014The Biden administration's top antitrust officials plan to take more shots at the tech industry before leaving office, in a race to cap four ...",
+                    "publisher": "The Wall Street Journal",
+                    "timestamp": "1731986760000",
+                    "newsUrl": "https://www.wsj.com/us-news/law/antitrust-enforcers-prepare-final-blitz-against-big-tech-39afe085",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNWxNMnRCYzFkdE9VMDBhMmRmVFJERUF4aW1CU2dLTWdB=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iI0NnNWxNMnRCYzFkdE9VMDBhMmRmVFJERUF4aW1CU2dLTWdB"
+                    }
+                },
+                {
+                    "title": "Alphabet Braces For DOJ Remedies: Analyst Sees 20% Upside Despite 'Worst Possible' Risks",
+                    "snippet": "Alphabet Inc. (GOOGL/GOOG) faces high stakes as DOJ's final remedies for antitrust violations approach, but analyst sees potential for clarity and future ...",
+                    "publisher": "Benzinga",
+                    "timestamp": "1731937779000",
+                    "newsUrl": "https://www.benzinga.com/analyst-ratings/analyst-color/24/11/42036010/alphabet-on-trial-doj-remedies-loom-but-analyst-sees-20-upside-as-discount-to-meta-narrows",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNW5kVGh1VWxVMVJUSkRXWGw1VFJERUF4aW5CU2dLTWdZQmNJZ3h3UU0=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNW5kVGh1VWxVMVJUSkRXWGw1VFJERUF4aW5CU2dLTWdZQmNJZ3h3UU0"
+                    }
+                },
+                {
+                    "title": "US to call for Google to sell Chrome browser: report",
+                    "snippet": "The US will urge a judge to make Google-parent company Alphabet sell its widely used Chrome browser in a major antitrust crackdown on the internet giant, ...",
+                    "publisher": "The Economic Times",
+                    "timestamp": "1731979201000",
+                    "newsUrl": "https://m.economictimes.com/tech/technology/us-to-call-for-google-to-sell-chrome-browser-report/articleshow/115432559.cms",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNWZka0ZoY1dOUU9XNVJSemR3VFJEZ0F4aUFCU2dLTWdZbGhKYU1NUWM=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNWZka0ZoY1dOUU9XNVJSemR3VFJEZ0F4aUFCU2dLTWdZbGhKYU1NUWM"
+                    }
+                },
+                {
+                    "title": "DOJ antitrust officials reportedly pushing for Google to sell off Chrome browser",
+                    "snippet": "Antitrust officials from the DOJ are reportedly expected to ask a judge to force Google to sell Chrome to remedy its search antitrust case.",
+                    "publisher": "Business Insider",
+                    "timestamp": "1731973560000",
+                    "newsUrl": "https://www.businessinsider.com/doj-may-push-google-sell-chrome-remedy-search-antitrust-violation-2024-11",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNXRWSE5IVkhwSVdEaFNOV1YyVFJERUFoaWJCU2dLTWdB=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iI0NnNXRWSE5IVkhwSVdEaFNOV1YyVFJERUFoaWJCU2dLTWdB"
+                    }
+                },
+                {
+                    "title": "US lawyers will reportedly try to force Google to sell Chrome and unbundle Android",
+                    "snippet": "The Department of Justice will recommend that Google be made to sell Chrome, unbundle Android from products like the Play Store, and create AI opt-outs, ...",
+                    "publisher": "The Verge",
+                    "timestamp": "1731970340000",
+                    "newsUrl": "https://www.theverge.com/2024/11/18/24300033/doj-google-monopoly-remedies-search-chrome-android-ai",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNW5WRFZsVW1OcVFWaHdNVWxLVFJDUUF4ai1CU2dLTWdhWkJJckxHUVk=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNW5WRFZsVW1OcVFWaHdNVWxLVFJDUUF4ai1CU2dLTWdhWkJJckxHUVk"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "FAQ: Spirit Airlines' bankruptcy and how it might affect your travel",
+            "snippet": "Spirit Airlines filed for Chapter 11 bankruptcy protection on Monday, becoming the first major U.S. airline to do so since 2011.",
+            "publisher": "The Points Guy",
+            "timestamp": "1731956547000",
+            "newsUrl": "https://thepointsguy.com/news/spirit-airlines-bankruptcy-faq/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXZTa1ZwU1RObGVGRTJkVE54VFJERUF4aW1CU2dLTWdhSllKWUpxUWc=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNXZTa1ZwU1RObGVGRTJkVE54VFJERUF4aW1CU2dLTWdhSllKWUpxUWc"
+            },
+            "hasSubnews": true,
+            "subnews": [
+                {
+                    "title": "Spirit Airlines Stock Drops on Bankruptcy News. What Travelers Should Know.",
+                    "snippet": "Spirit Airlines filed for bankruptcy protection as it looks to cut its debt. The budget carrier will continue to fly but its stock is being delisted.",
+                    "publisher": "Barron's",
+                    "timestamp": "1731945720000",
+                    "newsUrl": "https://www.barrons.com/articles/spirit-airlines-bankruptcy-news-stock-delisting-6ca66720",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNWpOSE5ETlZOMlNXWlRSVzFvVFJDcUJCaXFCQ2dLTWdZQkFJdW9UUVE=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNWpOSE5ETlZOMlNXWlRSVzFvVFJDcUJCaXFCQ2dLTWdZQkFJdW9UUVE"
+                    }
+                },
+                {
+                    "title": "Spirit Airlines Issues Open Letter to All Spirit Guests",
+                    "snippet": "PRNewswire/ -- Spirit Airlines, Inc. (\"Spirit\" or the \"Company\") (NYSE: SAVE) today issued the following open letter to all Spirit Guests: We are writing to ...",
+                    "publisher": "PR Newswire",
+                    "timestamp": "1731923340000",
+                    "newsUrl": "https://www.prnewswire.com/news-releases/spirit-airlines-issues-open-letter-to-all-spirit-guests-302308341.html",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iKkNnNUNPVEkxVUdaVFpXTlpkelk0VFJCdkdKQURLQW95QmdFUWtPTzJCZw=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iKkNnNUNPVEkxVUdaVFpXTlpkelk0VFJCdkdKQURLQW95QmdFUWtPTzJCZw"
+                    }
+                },
+                {
+                    "title": "How Spirit Airlines Went From Industry Maverick to Chapter 11 Bankruptcy",
+                    "snippet": "The budget carrier's pivot to ultralow fares brought it success but competition, rising costs and a failed merger bid hurt the business.",
+                    "publisher": "The Wall Street Journal",
+                    "timestamp": "1731981600000",
+                    "newsUrl": "https://www.wsj.com/business/airlines/spirit-airlines-bankruptcy-history-6c3a9e0f",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNUViVVl0TTI4M1NXRk9ZVmh2VFJERUF4aW5CU2dLTWdB=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iI0NnNUViVVl0TTI4M1NXRk9ZVmh2VFJERUF4aW5CU2dLTWdB"
+                    }
+                },
+                {
+                    "title": "Spirit Airlines Files for Chapter 11 Bankruptcy \u2014 What It Means for Travelers' Upcoming Holiday Plans",
+                    "snippet": "Florida-based airline Spirit Airlines, known for its low cost fares, confirmed the \u201cprearranged\u201d filing is part of a restructuring plan in a statement on ...",
+                    "publisher": "PEOPLE",
+                    "timestamp": "1731946920000",
+                    "newsUrl": "https://people.com/spirit-airlines-files-for-bankruptcy-will-it-impact-holiday-travel-8746991",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVRlVWh2TUhwZlMzQldjelJaVFJERUF4aW1CU2dLTWdZQmtKUm9OQWM=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNVRlVWh2TUhwZlMzQldjelJaVFJERUF4aW1CU2dLTWdZQmtKUm9OQWM"
+                    }
+                },
+                {
+                    "title": "Stock futures, Nvidia, Spirit Airlines bankruptcy: 3 Things",
+                    "snippet": "US stock futures (ES=F, NQ=F, YM=F) fluctuate on last week's close for equities, while Wall Street strategists imagine the S&P 500 (^GSPC) has more room to ...",
+                    "publisher": "Yahoo Finance",
+                    "timestamp": "1731939030000",
+                    "newsUrl": "https://finance.yahoo.com/video/stock-futures-nvidia-spirit-airlines-141030117.html",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNWxVWFZ3Vnkxa1UzaHFVSGROVFJDZkF4amlCU2dLTWdhWlVaUUxzUWM=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNWxVWFZ3Vnkxa1UzaHFVSGROVFJDZkF4amlCU2dLTWdhWlVaUUxzUWM"
+                    }
+                },
+                {
+                    "title": "Major mistakes led to Spirit Airlines losing 97% of its value in 6 years and a bankruptcy filing",
+                    "snippet": "Spirit Airlines said Monday that it has filed for bankruptcy protection and will attempt to reboot as it struggles to recover from the pandemic-caused swoon ...",
+                    "publisher": "Fortune",
+                    "timestamp": "1731930180000",
+                    "newsUrl": "https://fortune.com/2024/11/18/spirit-airlines-files-bankruptcy-recover-failed-sale-jetblue/",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNTRia2xtUVhweGJFdzVXRTVCVFJDM0FSaVRBaWdCTWdZWlFwd3JKUWs=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNTRia2xtUVhweGJFdzVXRTVCVFJDM0FSaVRBaWdCTWdZWlFwd3JKUWs"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Nvidia Stock Has Done This After Its Last Four Quarterly Results. Here's What It May Do After Nov. 20",
+            "snippet": "Nvidia's stock price hasn't always moved up following its quarterly reports. The chipmaker, however, seems to be in a position to deliver ...",
+            "publisher": "The Motley Fool",
+            "timestamp": "1731978900000",
+            "newsUrl": "https://www.fool.com/investing/2024/11/18/nvidia-stock-has-done-this-after-its-last-four-qua/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXlTVW8yVldaelkzZDVkblkxVFJDa0FSaXlBaWdCTWdhaG80YU52UVE=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNXlTVW8yVldaelkzZDVkblkxVFJDa0FSaXlBaWdCTWdhaG80YU52UVE"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Carrots Recalled Nationwide at Trader Joe's, Whole Foods, and More Due to Possible E. Coli Contamination",
+            "snippet": "Carrots from Grimmway Farms, sold at retailers including Target, Whole Foods, Trader Joe's and Wegmans, have been linked to an E. coli outbreak that ...",
+            "publisher": "Real Simple",
+            "timestamp": "1731955611000",
+            "newsUrl": "https://www.realsimple.com/nationwide-carrot-recall-e-coli-contamination-8747115",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNHRibk14UXpBdGRsOXdlRjlSVFJERUF4aW1CU2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iI0NnNHRibk14UXpBdGRsOXdlRjlSVFJERUF4aW1CU2dLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Super Micro Computer Submits Nasdaq Compliance Plan",
+            "snippet": "The company's board has engaged BDO USA as its independent auditor.",
+            "publisher": "The Wall Street Journal",
+            "timestamp": "1731971520000",
+            "newsUrl": "https://www.wsj.com/finance/stocks/super-micro-computer-submits-nasdaq-compliance-plan-f395306f",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXJTMVV0UVdGNVdUWTJjbTlzVFJERUF4aW1CU2dLTWdZaE1JaDRNQWM=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNXJTMVV0UVdGNVdUWTJjbTlzVFJERUF4aW1CU2dLTWdZaE1JaDRNQWM"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Watch These MicroStrategy Levels as Stock Soars to Record High After Bitcoin Purchase",
+            "snippet": "MicroStrategy shares could remain in focus on Tuesday after soaring to a new record high following news the software analytics company purchased an ...",
+            "publisher": "Investopedia",
+            "timestamp": "1731985675000",
+            "newsUrl": "https://www.investopedia.com/watch-these-microstrategy-levels-as-stock-soars-to-record-high-after-bitcoin-purchase-8747705",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNUJiRWRFT0VkWFJEZG5hMHhMVFJEZEFoanVCaWdLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iI0NnNUJiRWRFT0VkWFJEZG5hMHhMVFJEZEFoanVCaWdLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Fidelity Fund That Rode China\u2019s Epic Rally Is Back Buying Stocks",
+            "snippet": "After successfully riding China's epic stock rally in late September, Fidelity International's George Efstathopoulos is boosting positions again on ...",
+            "publisher": "Bloomberg",
+            "timestamp": "1731978840000",
+            "newsUrl": "https://www.bloomberg.com/news/articles/2024-11-19/fidelity-fund-that-rode-china-s-epic-rally-is-back-buying-stocks",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNUxVM0ZUVGpONVUwUjJXRWxsVFJERUF4aW1CU2dLTWdNUmdBQQ=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iJ0NnNUxVM0ZUVGpONVUwUjJXRWxsVFJERUF4aW1CU2dLTWdNUmdBQQ"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Trump Plans to Attend Elon Musk\u2019s SpaceX Launch on Tuesday",
+            "snippet": "President-elect Donald J. Trump plans to attend a SpaceX launch in Texas on Tuesday, according to two people familiar with the planning, in yet another ...",
+            "publisher": "The New York Times",
+            "timestamp": "1731969233000",
+            "newsUrl": "https://www.nytimes.com/2024/11/18/us/politics/trump-musk-spacex-launch-texas.html",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNDJlVmsyVFhOTVl6WnNURFJ0VFJDUUF4allCQ2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iI0NnNDJlVmsyVFhOTVl6WnNURFJ0VFJDUUF4allCQ2dLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Here\u2019s how many Boeing has laid off in Washington",
+            "snippet": "Boeing has laid off 2,199 workers in Washington, according to a notice filed Monday with the state's Employment Security Department, as upheaval at the ...",
+            "publisher": "The Seattle Times",
+            "timestamp": "1731984529000",
+            "newsUrl": "https://www.seattletimes.com/business/boeing-aerospace/boeing-lays-off-more-than-2000-washington-workers/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNUtRMGxSUjNaS1ozQXhiR2RCVFJERUF4aW1CU2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iI0NnNUtRMGxSUjNaS1ozQXhiR2RCVFJERUF4aW1CU2dLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Amazon and SpaceX attack US labor watchdog in court",
+            "snippet": "Amazon and SpaceX told the Fifth Circuit that they shouldn't be subject to what they call unconstitutional proceedings by the National Labor Relations ...",
+            "publisher": "The Verge",
+            "timestamp": "1731969964000",
+            "newsUrl": "https://www.theverge.com/2024/11/18/24299607/amazon-spacex-nlrb-labor-law-fifth-circuit",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iMkNnNVhjWEZaWWxveFNsaFhTVVEzVFJEZ0F4aUFCU2dLTWdzQmtJaUR2U1FsRkhsa2l3=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iMkNnNVhjWEZaWWxveFNsaFhTVVEzVFJEZ0F4aUFCU2dLTWdzQmtJaUR2U1FsRkhsa2l3"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Nippon Steel flies to Pittsburgh in race to get US Steel deal cleared",
+            "snippet": "Nippon Steel's top executives are meeting local officials and workers of US Steel in Pennsylvania this week as the Japanese steelmaker makes a post-election ...",
+            "publisher": "Financial Times",
+            "timestamp": "1731965272000",
+            "newsUrl": "https://www.ft.com/content/c0549c37-142f-462a-ae2b-55215ea77419",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNWhXalZIVkdoblNtcDJRelJMVFJDS0F4aThCU2dLTWdZQm9JSnZSUVk=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNWhXalZIVkdoblNtcDJRelJMVFJDS0F4aThCU2dLTWdZQm9JSnZSUVk"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Bitcoin, Ethereum, Dogecoin Rise Amid Tesla-Fueled Tech Stocks Rally: Popular Analyst Says BTC Could Reach $138K Before 'Major Pullback'",
+            "snippet": "Leading cryptocurrencies inched higher Monday, coinciding with a surge in tech stocks.",
+            "publisher": "Benzinga",
+            "timestamp": "1731986251000",
+            "newsUrl": "https://www.benzinga.com/trading-ideas/movers/24/11/42053406/bitcoin-ethereum-dogecoin-rise-amid-tesla-fueled-tech-stocks-rally-popular-analyst-says-btc-could-reach-138k-before-major-pullback",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNVdSbnByWkZCaFl6ZFBObkpYVFJERUF4aW1CU2dLTWdrQkVZektIU2pnUmdJ=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iL0NnNVdSbnByWkZCaFl6ZFBObkpYVFJERUF4aW1CU2dLTWdrQkVZektIU2pnUmdJ"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Morgan Stanley\u2019s Mike Wilson Turns Bull. He Sees a 10% Gain for the S&P 500.",
+            "snippet": "Wilson's call is the latest in a string of bullish forecasts Wall Street has pumped out since Donald Trump was elected to a second term as president.",
+            "publisher": "Barron's",
+            "timestamp": "1731963600000",
+            "newsUrl": "https://www.barrons.com/articles/morgan-stanley-mike-wilson-bull-run-b7d590c4",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNWlXVVJNTkVsVFEzZFBXR3BDVFJDcUJCaXFCQ2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iI0NnNWlXVVJNTkVsVFEzZFBXR3BDVFJDcUJCaXFCQ2dLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Trump's social media group in talks to buy Bakkt, FT reports",
+            "snippet": "Donald Trump's social media company is in advanced talks to buy crypto trading firm Bakkt , the Financial Times reported on Monday, citing two people with ...",
+            "publisher": "Reuters",
+            "timestamp": "1731971763000",
+            "newsUrl": "https://www.reuters.com/markets/deals/donald-trumps-social-media-group-talks-buy-bakkt-ft-reports-2024-11-18/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNDNkREJPUW1jM01IQldVa3BsVFJERUF4aW1CU2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iI0NnNDNkREJPUW1jM01IQldVa3BsVFJERUF4aW1CU2dLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Major healthcare provider files for Chapter 11 bankruptcy",
+            "snippet": "Provider of clinical care centers with a comprehensive range of medical services files for Chapter 11 bankruptcy protection.",
+            "publisher": "TheStreet",
+            "timestamp": "1731973202000",
+            "newsUrl": "https://www.thestreet.com/breaking-news/major-healthcare-provider-files-for-chapter-11-bankruptcy",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNVFTazQ0Tmt4alZYQjNaRkpoVFJEb0FoaUFCU2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iI0NnNVFTazQ0Tmt4alZYQjNaRkpoVFJEb0FoaUFCU2dLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Wall St mixed as investors await Nvidia earnings; Tesla jumps",
+            "snippet": "(Reuters) -The Nasdaq and S&P 500 rebounded on Monday, recovering some losses as investors anticipate quarterly earnings from AI leader Nvidia, ...",
+            "publisher": "Yahoo Finance",
+            "timestamp": "1731957707000",
+            "newsUrl": "https://finance.yahoo.com/news/futures-mixed-previous-weeks-slide-111434309.html",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNWhka0Z5WmpscE4xWTVjbEEzVFJDckF4aUFCU2dLTWdZQmNJck90QVU=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNWhka0Z5WmpscE4xWTVjbEEzVFJDckF4aUFCU2dLTWdZQmNJck90QVU"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Federal Judge Strikes Down Biden\u2019s Overtime Expansion",
+            "snippet": "A federal judge in Texas has struck down a Biden administration rule that would have expanded overtime eligibility for about four million salaried workers, ...",
+            "publisher": "Inside Higher Ed",
+            "timestamp": "1731916956000",
+            "newsUrl": "https://www.insidehighered.com/news/government/2024/11/18/federal-judge-strikes-down-biden-overtime-expansion",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUJRa0k1TUdFNVpuQkJlRE5yVFJDM0FSaVRBaWdCTWdZWlpKRE5MUWc=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNUJRa0k1TUdFNVpuQkJlRE5yVFJDM0FSaVRBaWdCTWdZWlpKRE5MUWc"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Bluesky Explained: Why This Social Media Network Is Growing by 1 Million Users a Day",
+            "snippet": "The social network Bluesky has been growing at a rapid rate ever since the US presidential election concluded. A representative for the company said in an ...",
+            "publisher": "CNET",
+            "timestamp": "1731966840000",
+            "newsUrl": "https://www.cnet.com/tech/bluesky-explained-why-this-social-media-network-is-now-growing-by-1-million-users-daily/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVFVa2xGTVdGbFdUZGhhSGs1VFJDZkF4ampCU2dLTWdhbFlZaU5MUVE=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNVFVa2xGTVdGbFdUZGhhSGs1VFJDZkF4ampCU2dLTWdhbFlZaU5MUVE"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Options Trading on the Giant iShares Bitcoin ETF Will Begin Tuesday",
+            "snippet": "An industry push to offer options trading on Bitcoin exchange-traded funds recently cleared some regulatory hurdles.",
+            "publisher": "Barron's",
+            "timestamp": "1731970500000",
+            "newsUrl": "https://www.barrons.com/articles/bitcoin-options-trading-ishares-etf-ibit-2cd823b1",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iMkNnNVhhMEZ4ZURWbVNHMWhlRjgzVFJDcUJCaXFCQ2dLTWdzQmNJYUF2cVVzRE1yY2N3=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iMkNnNVhhMEZ4ZURWbVNHMWhlRjgzVFJDcUJCaXFCQ2dLTWdzQmNJYUF2cVVzRE1yY2N3"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Robinhood (NASDAQ:HOOD) Stock Surges on Needham Upgrade",
+            "snippet": "Analyst upgrades can often do wonders for a stock, and for online investing platform Robinhood Markets ($HOOD), that proved to be the case.",
+            "publisher": "TipRanks",
+            "timestamp": "1731962683000",
+            "newsUrl": "https://www.tipranks.com/news/robinhood-nasdaqhood-surges-on-needham-upgrade",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNUZjRzR6VjNsS1pEWm5TWE51VFJDV0F4anVCU2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iI0NnNUZjRzR6VjNsS1pEWm5TWE51VFJDV0F4anVCU2dLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Gold, Natural Gas Prices Rally As US-Russia Tensions Escalate Over Ukraine's Long-Range Strikes",
+            "snippet": "Gold, tracked by the SPDR Gold Trust, mirrored gains across the broader commodity complex. Oil and natural gas prices also advanced.",
+            "publisher": "Benzinga",
+            "timestamp": "1731941100000",
+            "newsUrl": "https://www.benzinga.com/news/econ-s/24/11/42038707/gold-natural-gas-prices-rally-us-russia-tensions-escalate-over-ukraines-long-range-strikes",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNWxhbGxNVFZacU9WbFdNVXB3VFJERUF4aW5CU2dLTWdhUk1Jb0pKUVU=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNWxhbGxNVFZacU9WbFdNVXB3VFJERUF4aW5CU2dLTWdhUk1Jb0pKUVU"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "US Stocks Rebound, Tesla Rallies, Bitcoin Soars Above $92,000: What's Driving Markets Monday?",
+            "snippet": "Risk sentiment edged higher on Monday, rebounding after two consecutive losing sessions and the worst week for the U.S. stock market since early September, ...",
+            "publisher": "Benzinga",
+            "timestamp": "1731953656000",
+            "newsUrl": "https://www.benzinga.com/government/regulations/24/11/42045345/us-stocks-rebound-tesla-rallies-bitcoin-soars-above-92000-whats-driving-markets-monday",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNHRlRFoyUVZCQlduUlJRVkZDVFJERUF4aW1CU2dLTWdiVkVKcVlrQW8=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNHRlRFoyUVZCQlduUlJRVkZDVFJERUF4aW1CU2dLTWdiVkVKcVlrQW8"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "S&P To Crash More Than 40%?",
+            "snippet": "The Fed and Chair Powell all but finalized last week - rates are unlikely to be cut in the Fed's December meeting.",
+            "publisher": "Forbes",
+            "timestamp": "1731944431000",
+            "newsUrl": "https://www.forbes.com/sites/greatspeculations/2024/11/18/sp-to-crash-more-than-40/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNUxhVzVCU0U1TU9GTmtNWGRHVFJER0F4aWpCU2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iI0NnNUxhVzVCU0U1TU9GTmtNWGRHVFJER0F4aWpCU2dLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "\u2018Stay Away for Now,\u2019 Says Top Investor About Palantir Stock",
+            "snippet": "Palantir (NYSE:PLTR) has been one of the biggest stock market stories of 2024, with its shares soaring over 250% this year alone.",
+            "publisher": "TipRanks",
+            "timestamp": "1731984166000",
+            "newsUrl": "https://www.tipranks.com/news/stay-away-for-now-says-top-investor-about-palantir-stock",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXlUVlJpTVZGWlowMTVTa1JGVFJDV0F4anVCU2dLTWdZUmdKU1hMQWM=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNXlUVlJpTVZGWlowMTVTa1JGVFJDV0F4anVCU2dLTWdZUmdKU1hMQWM"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Black Friday Kicks Off: 16 Deals You Don\u2019t Want to Miss This Monday Before They Sell Out",
+            "snippet": "Smart shoppers are gearing up for the biggest shopping event of the year: Black Friday and Cyber Monday. This year, the excitement kicks off early with the ...",
+            "publisher": "Gizmodo",
+            "timestamp": "1731947750000",
+            "newsUrl": "https://gizmodo.com/black-friday-kick-off-16-deals-you-dont-want-to-miss-this-monday-before-they-sell-out-2000525638",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNWFRelEzVEhkSE5tWm1ZMmxVVFJERUF4aW1CU2dLTWdhSmdJNW90Z1k=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNWFRelEzVEhkSE5tWm1ZMmxVVFJERUF4aW1CU2dLTWdhSmdJNW90Z1k"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "$500,000 Pay, Predictable Hours: How Dermatology Became the \u2018It\u2019 Job in Medicine",
+            "snippet": "Four-day workweeks, double the salary of some colleagues and no emails at night. If those perks sound like they belong to a few vaunted tech jobs, ...",
+            "publisher": "The Wall Street Journal",
+            "timestamp": "1731928347000",
+            "newsUrl": "https://www.wsj.com/lifestyle/careers/dermatology-jobs-salary-young-doctors-174cfe53",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNDVPV0ZJWDFSRE5qUk1WMmhLVFJERUF4aW1CU2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iI0NnNDVPV0ZJWDFSRE5qUk1WMmhLVFJERUF4aW1CU2dLTWdB"
+            },
+            "hasSubnews": false
+        }
+    ]
+}

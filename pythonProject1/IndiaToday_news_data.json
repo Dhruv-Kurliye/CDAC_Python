@@ -1,0 +1,43 @@
+{
+    "code": "ECONNRESET",
+    "error": {
+        "message": "Client network socket disconnected before secure TLS connection was established",
+        "name": "Error",
+        "stack": "Error: Client network socket disconnected before secure TLS connection was established\n    at Function.AxiosError.from (/opt/render/project/src/node_modules/axios/dist/node/axios.cjs:836:14)\n    at RedirectableRequest.handleRequestError (/opt/render/project/src/node_modules/axios/dist/node/axios.cjs:3010:25)\n    at RedirectableRequest.emit (events.js:376:20)\n    at ClientRequest.eventHandlers.<computed> (/opt/render/project/src/node_modules/follow-redirects/index.js:14:24)\n    at ClientRequest.emit (events.js:376:20)\n    at TLSSocket.socketErrorListener (_http_client.js:475:9)\n    at TLSSocket.emit (events.js:376:20)\n    at emitErrorNT (internal/streams/destroy.js:106:8)\n    at emitErrorCloseNT (internal/streams/destroy.js:74:3)\n    at processTicksAndRejections (internal/process/task_queues.js:82:21)",
+        "config": {
+            "transitional": {
+                "silentJSONParsing": true,
+                "forcedJSONParsing": true,
+                "clarifyTimeoutError": false
+            },
+            "adapter": [
+                "xhr",
+                "http"
+            ],
+            "transformRequest": [
+                null
+            ],
+            "transformResponse": [
+                null
+            ],
+            "timeout": 0,
+            "xsrfCookieName": "XSRF-TOKEN",
+            "xsrfHeaderName": "X-XSRF-TOKEN",
+            "maxContentLength": -1,
+            "maxBodyLength": -1,
+            "env": {
+                "Blob": null
+            },
+            "headers": {
+                "Accept": "application/json, text/plain, */*",
+                "User-Agent": "axios/1.4.0",
+                "Accept-Encoding": "gzip, compress, deflate, br"
+            },
+            "method": "get",
+            "url": "https://www.indiatoday.in/"
+        },
+        "code": "ECONNRESET",
+        "status": null
+    },
+    "message": "Client network socket disconnected before secure TLS connection was established"
+}
